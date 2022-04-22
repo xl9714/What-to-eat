@@ -59,6 +59,11 @@ html, body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.selection img {
+    width: 5%;
+    height: 5%;
+}
+
 a:link {
     color: #eb5f01;
     background-color: transparent;
